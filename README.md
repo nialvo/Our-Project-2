@@ -9,7 +9,7 @@
 
 ## Description and Link:
 
-An online casino (no real money, just for fun). Still a lot we plan to add, but worth a visit. Please try it out here:<br><br>
+An online casino (no real money, just for fun). Gamble your money or watch a video to earn more. Please try it out here:<br><br>
 <a href='https://cloud247casino.herokuapp.com/'>Link to deployed version</a>
 
 <br>
